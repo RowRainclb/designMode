@@ -6,3 +6,5 @@
 分支 single
 ### 原型模式
 分支 prototype
+### 代理模式
+分支 proxy
