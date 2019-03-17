@@ -4,3 +4,5 @@
 分支 factory
 ### 单例模式
 分支 single
+### 原型模式
+分支 prototype
